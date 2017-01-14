@@ -1,2 +1,2 @@
 # DestroyWorld
-Build app to destroy
+Build app to destroy first
